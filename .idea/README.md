@@ -1,6 +1,8 @@
 ## 3 Seminar
 
-## Chance from local repository
+## Change from local repository
 
-## Chance from remote repository
+## Change from remote repository 
+
+## Error text
 
